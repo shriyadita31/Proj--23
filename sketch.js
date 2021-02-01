@@ -9,8 +9,8 @@ const Body = Matter.Body;
 
 function preload()
 {
-	helicopterIMG=loadImage("sprites/helicopter.png")
-	packageIMG=loadImage("sprites/package.png")
+	helicopterIMG=loadImage("helicopter.png")
+	packageIMG=loadImage("package.png")
 }
 
 function setup() {
